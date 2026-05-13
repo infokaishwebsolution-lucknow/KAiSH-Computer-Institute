@@ -8,6 +8,7 @@ Welcome to the official GitHub repository of KAiSH Computer Institute. This repo
 
 ## 📚 Courses Offered
 - Data Science
+- Data Analytics
 - Python Programming
 - AI & Machine Learning
 - Web Development
@@ -18,6 +19,11 @@ Welcome to the official GitHub repository of KAiSH Computer Institute. This repo
 - C Programming
 - C++
 - JavaScript
+- Python with ML
+- Python with SQL
+- Digital Marketing with Gen AI
+- MS Office
+- AI with GEN AI Mastery
 
 ## 🎯 Our Mission
 To provide practical, industry-focused computer education that helps students build real-world skills and career opportunities.
