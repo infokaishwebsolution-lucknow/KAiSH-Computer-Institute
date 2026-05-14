@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://your-logo-link.png" width="140" />
+<img src="https://www.kaishclasses.com/image/logo/kaish-computer-institute-logo.png" width="140" />
 
 # 🚀 KAiSH Computer Institute
 
